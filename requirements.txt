@@ -1,0 +1,17 @@
+# Core Python Libraries for Data Science
+numpy
+pandas
+
+# Visualization
+# matplotlib
+# seaborn
+
+# # Machine Learning
+# scikit-learn
+
+# Jupyter environment
+jupyter
+
+# Optional but useful
+notebook
+ipykernel
